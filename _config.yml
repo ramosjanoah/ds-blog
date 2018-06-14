@@ -45,7 +45,7 @@ social:
    url:	https://facebook.com/rjanoah
    desc: Connect with me facebook
    share_url: https://www.facebook.com/sharer.php
-   share_title: ?t=
+   share_title: ?text=
    share_link: "&amp;u="
 
   - icon:	github
