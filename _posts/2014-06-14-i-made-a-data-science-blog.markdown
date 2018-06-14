@@ -2,7 +2,6 @@
 layout: post
 title:  "I Made a Data Science Blog!"
 date:   2018-06-14 14:34:25
-categories: jekyll update
 ---
 Okey, so i made this blog for International sharin purpose, so i can share what've i found and i done about Data Science. Hopefully this blog is usefull if you're willing to learn, and maybe we can learn together :D.
 
