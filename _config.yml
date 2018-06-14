@@ -11,13 +11,13 @@ description: > # this means to ignore newlines until "email:"
 email: ramosj.noah@gmail.com
 #blog logo
 logo: "/assets/images/curl.png"
-float_logo: true # true, false (default)
+float_logo: false # true, false (default)
 
 # blog cover
 cover: "/assets/images/wordcloud_cover.png"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Ramos Janoah'
+author: 'Ramos Janoah'
 author_image: "/assets/images/me.png"
 
 paginate:	5
