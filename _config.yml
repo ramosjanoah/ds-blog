@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Ramos Janoah's Data Science Blog"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   -
 
-email: a-mail@mail.mail
+email: ramosj.noah@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
@@ -22,10 +22,10 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
+url: "https://ramosjanoah.github.io"
+baseurl: "/ds-blog"
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@ramosj_noah'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -35,7 +35,7 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/ramosj_noah
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
