@@ -14,7 +14,7 @@ logo: "/assets/images/curl.png"
 float_logo: false # true, false (default)
 
 # blog cover
-cover: "/assets/images/wordcloud_cover.png"
+cover: "/assets/images/cover.png"
 
 name: 'Ramos Janoah'
 author: 'Ramos Janoah'
